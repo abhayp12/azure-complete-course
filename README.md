@@ -27,4 +27,32 @@
 ## Part4
 ### Azure Scale Set
 
+## Part5
+### Azure Storage
+    -Azure disks(Managed and Unmanaged disks)
+    -Blob storage
+    -File storage
+    -Queue Storage
+
+## Part6
+### Azure Networking
+    -Virtual Networks
+    -Subnets
+    -Working with VNets
+    -NSG
+    -ASG
+    -VNet Peering
+    -Network Topology
+    -Service Endpoints
+    -Private Link
+    -VNet Integration
+
+## Part7
+### Load Balancers in Azure
+    -Network Load balancer
+    -Application Gateway
+    -FrontDoor
+    -Traffic manager
+    
+
 
