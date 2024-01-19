@@ -127,7 +127,7 @@
     -Defining Custom Policy and Testing the Policies
 
 ## Part-15
-### Azure Policy 
+### Architecting Apps for Azure
     -Introduction
     -Choosing Compute Platform
     -Choosing Data Platform
@@ -136,7 +136,7 @@
     -Implementing Logging and Monitoring
 
 ## Part-16
-### Azure Policy 
+### Migrating to the Cloud
     -Introduction
     -The Migration Process
     -Motivation Assessment
