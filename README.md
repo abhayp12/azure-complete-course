@@ -27,6 +27,9 @@
 
 ## Part-5
 ### Azure Scale Set
+    -What is scaling(Vertical and Horizontal scaling)
+    -create Scale Set
+    -Configure Scale Set
 
 ## Part-6
 ### Azure Storage
@@ -61,23 +64,12 @@
     -Tenant
     -A lookk Around Azure AD
     -Users & Groups
-    -Azure AD licences
-    -Working with Users and groups
-    -Azure Ad licences
-    -MFA
-    -Security Defaults
-    -Using Security Defaults
     -RBAC
     -Azure roles
     -Using Azure roles
     -Managed Identities
     -Using Managed Identities with inventory app services
     -Using Azure AD to Authenticate our App
-    -OAuth & JWT
-    -Configuring Azure AD and the Inventory App Service for Authentication
-    -Adapting the Inventory Code and Using Azure AD
-    -Azure AD B2C
-    -Current Architecture
     -Synchronizing Azure AD with On-Prem AD
 
 ## Part-10
@@ -107,17 +99,12 @@
     -Introduction
     -VM Security Best Practices
     -Networking Security Best Practices
-    -Database Security Best Practices
     -App Services Security Best Practices
     -KeyVault
-    -Troubleshooting KeyVault
-    -Using KeyVault in the Catalog App
-    -Publishing the KeyVault Code and Using Insights
     -KeyVault Tips and Tricks
-    -A quick note about Defender for Cloud
+    -About Defender for Cloud
     -Defender for Cloud
     -Using Defender for Cloud
-    -Current Architecture
 
 ## Part-12
 ### DR in Azure 
@@ -126,13 +113,6 @@
     -Basics of DR Implementation
     -DR of Data in Azure
     -DR of Compute in Azure
-    -Routing in DR
-    -Azure Traffic Manager
-    -Using Azure Traffic Manager
-    -Azure Front Door
-    -Using Azure Front Door
-    -Traffic Manager vs Front Door
-    -Current Architecture
 
 ## Part-13
 ### Managing Costs in Azure 
@@ -154,7 +134,6 @@
     -Choosing Messaging Platform
     -Implementing Security
     -Implementing Logging and Monitoring
-    -Azure Architecture Center
 
 ## Part-16
 ### Azure Policy 
